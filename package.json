@@ -1,0 +1,41 @@
+{
+  "name": "react-form",
+  "version": "0.0.1",
+  "description": "A modular React form system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/korbin/react-form"
+  },
+  "keywords": [
+    "react",
+    "form",
+    "builder",
+    "rails",
+    "formtastic"
+  ],
+  "author": "korbin <k1@k1.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korbin/react-form/issues"
+  },
+  "homepage": "https://github.com/korbin/react-form",
+  "dependencies": {
+    "immutable": "^3.3.0",
+    "lodash.compose": "^2.4.1",
+    "object-path": "^0.8.1",
+    "react": "^0.12.1",
+    "type-detect": "^0.1.2"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.2.1"
+  },
+  "jest": {
+    "unmockedModulePathPatterns": [
+      "./node_modules/react"
+    ]
+  }
+}
