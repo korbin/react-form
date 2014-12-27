@@ -1,6 +1,6 @@
 {
   "name": "react-form",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A modular React form system.",
   "main": "index.js",
   "scripts": {
