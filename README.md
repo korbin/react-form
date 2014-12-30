@@ -2,7 +2,7 @@
 [![npm version](https://badge.fury.io/js/react-form.svg)](http://badge.fury.io/js/react-form)
 [![Build Status](https://travis-ci.org/korbin/react-form.svg?branch=master)](https://travis-ci.org/korbin/react-form)
 
-## Synposis
+## Synopsis
 **react-form** is a lightweight, opinionated form-building system for [React](https://github.com/facebook/react). The react-form DSL was designed to produce clean code that directly resembles an underlying object hierarchy.
 
 ## Design Goals
