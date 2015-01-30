@@ -151,4 +151,4 @@ npm link ~/path-to-react-form/
 The react-form DSL was **heavily** inspired by (stolen from) [Formtastic](https://github.com/justinfrench/formtastic). 
 
 ## License
-react-form is released under the [MIT License](https://github.com/korbin/react-form/blob/master/LICENSE).
+react-form is released under the [MIT License](LICENSE).
